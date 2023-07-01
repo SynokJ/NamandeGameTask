@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-task_00-9886-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\task_00Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\MyMainCharacter.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\MyMainGameMode.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00Character.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00GameMode.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\MyMainCharacter.gen.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\MyMainGameMode.gen.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00.init.gen.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00Character.gen.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\task_00GameMode.gen.cpp.obj"
+"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\Default.rc2.res"
+/OUT:"C:\Users\mrust\OneDrive\Documents\Unreal Projects\task_00\Intermediate\Build\Win64\UnrealEditor\DebugGame\task_00\UnrealEditor-task_00-9886-Win64-DebugGame.lib"

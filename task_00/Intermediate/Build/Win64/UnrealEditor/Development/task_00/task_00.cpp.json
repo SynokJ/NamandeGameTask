@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\source\\task_00\\task_00.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\task_00editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\development\\task_00\\definitions.task_00.h",
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\source\\task_00\\task_00.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

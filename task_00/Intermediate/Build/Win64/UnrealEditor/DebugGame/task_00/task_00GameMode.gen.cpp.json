@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\inc\\task_00\\task_00gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\task_00editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\debuggame\\task_00\\definitions.task_00.h",
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\source\\task_00\\task_00gamemode.h",
+            "c:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\inc\\task_00\\task_00gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

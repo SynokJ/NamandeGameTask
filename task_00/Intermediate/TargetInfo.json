@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "task_00",
+			"Path": "C:\\Users\\mrust\\OneDrive\\Documents\\Unreal Projects\\task_00\\Source\\task_00.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "task_00Editor",
+			"Path": "C:\\Users\\mrust\\OneDrive\\Documents\\Unreal Projects\\task_00\\Source\\task_00Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

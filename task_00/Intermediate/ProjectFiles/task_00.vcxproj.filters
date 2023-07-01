@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\task_00.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\task_00.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\task_00Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\task_00">
+      <UniqueIdentifier>{10E949DA-FA46-33DF-A507-8941304DE441}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\task_00\MyMainCharacter.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\MyMainCharacter.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\task_00\MyMainGameMode.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\MyMainGameMode.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\task_00\MyMainHUD.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\MyMainHUD.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\task_00\MyMainMatineeCameraShake.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\MyMainMatineeCameraShake.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\task_00\task_00.Build.cs">
+      <Filter>Source\task_00</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\task_00\task_00.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\task_00.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\task_00\task_00Character.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\task_00Character.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\task_00\task_00GameMode.cpp">
+      <Filter>Source\task_00</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\task_00\task_00GameMode.h">
+      <Filter>Source\task_00</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

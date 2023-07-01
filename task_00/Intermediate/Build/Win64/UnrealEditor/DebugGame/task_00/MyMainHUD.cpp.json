@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\source\\task_00\\mymainhud.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\task_00editor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\debuggame\\task_00\\definitions.task_00.h",
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\source\\task_00\\mymainhud.h",
+            "c:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "c:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "c:\\games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "c:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\debugtextinfo.generated.h",
+            "c:\\games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hud.generated.h",
+            "c:\\users\\mrust\\onedrive\\documents\\unreal projects\\task_00\\intermediate\\build\\win64\\unrealeditor\\inc\\task_00\\mymainhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
